@@ -1,12 +1,22 @@
 <div align="center">
 
-# E T H A N
+# 𝙀𝙏𝙃𝘼𝙉
 
-### CYBERSECURITY / WEBSITE MODERNIZATION / TECHNICAL SYSTEMS
+### WEBSITE MODERNIZATION  /  CYBERSECURITY  /  DIGITAL PROJECTS
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=2400&pause=900&color=E32636&center=true&vCenter=true&width=780&lines=Cybersecurity+Analyst+by+day.+Builder+by+nature.;Security+operations+%2F+infrastructure+%2F+automation;Modernizing+websites+that+have+been+left+behind;Building+systems+to+solve+real+problems." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=19&duration=2600&pause=900&color=E5242A&center=true&vCenter=true&width=760&lines=Modernizing+websites+that+have+been+left+behind.;Clean.+Fast.+Current.;Cybersecurity+professional+%2F+technical+builder.;Making+digital+experiences+better." />
 
-<sub>ALBANY, NY &nbsp;&nbsp; / &nbsp;&nbsp; @REDTEAMLABZ</sub>
+<br>
+
+<a href="https://redteamlabs.dev">
+<img src="https://img.shields.io/badge/RED_TEAM_LABS-E5242A?style=for-the-badge&logo=cloudflare&logoColor=white">
+</a>
+
+&nbsp;
+
+<a href="mailto:YOUR-EMAIL-HERE">
+<img src="https://img.shields.io/badge/CONTACT-111111?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
 </div>
 
@@ -14,65 +24,77 @@
 
 ---
 
-### 001 / PROFILE
+<div align="center">
 
-I work professionally in **cybersecurity operations**, investigating suspicious activity, analyzing security telemetry, and helping respond to incidents across enterprise environments.
+## WEBSITE MODERNIZATION
 
-Away from the queue, I tend to build things.
+### Your business changed. Your website should too.
 
-Security labs. Infrastructure. Automation. Threat-intelligence workflows. Internal tooling.
+</div>
 
-And, increasingly, I work with local businesses whose websites have fallen behind — modernizing what they already have instead of selling them something unnecessarily complicated.
+I help businesses improve websites that still technically work — but no longer look, feel, or perform like they should.
+
+Maybe the site is dated.
+
+Maybe it looks rough on mobile.
+
+Maybe the ordering link is buried, the navigation is confusing, or important information hasn't been touched in years.
+
+I focus on **modernizing what already exists** without making things unnecessarily complicated.
 
 <br>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### SECURITY OPERATIONS
+### EXPERIENCE
 
-**Investigation**
-<br>
-Alert triage · Event correlation · Incident investigation · Log analysis · Packet analysis
-
-**Detection & Telemetry**
-<br>
-Exabeam · Endpoint telemetry · Windows event data · Network telemetry · IOC analysis
-
-**Threat Intelligence**
-<br>
-AlienVault OTX · OSINT · IOC enrichment · Malicious email analysis · Threat research
-
-**Automation**
-<br>
-PowerShell · Bash · APIs · Workflow automation
+Cleaner layouts  
+Better navigation  
+Mobile usability  
+Stronger calls-to-action  
+Clearer customer journeys  
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### SYSTEMS / LAB
+### MODERNIZATION
 
-**Virtualization**
-<br>
-Proxmox VE · Isolated VM infrastructure
+Updated styling  
+Content cleanup  
+Broken link fixes  
+Maps & directions  
+Ordering integrations  
+Business information  
 
-**Network Security**
-<br>
-OPNsense · Segmentation · Firewall policy · Controlled egress
+</td>
 
-**Analysis**
-<br>
-REMnux · INetSim · Windows analysis environments
+<td width="33%" valign="top">
 
-**Platforms**
-<br>
-Wazuh · Ubuntu · Docker · Ollama · Open WebUI
+### INFRASTRUCTURE
+
+Domains  
+DNS  
+Cloudflare  
+Hosting  
+Deployment  
+Performance  
+Baseline security  
 
 </td>
 </tr>
 </table>
+
+<br>
+
+<div align="center">
+
+### Clean enough to feel new.  
+### Simple enough to stay useful.
+
+</div>
 
 <br>
 
@@ -84,103 +106,121 @@ Wazuh · Ubuntu · Docker · Ollama · Open WebUI
 
 </div>
 
-### WAZUH / OTX / LOCAL THREAT ENRICHMENT
-
-A local threat-intelligence workflow combining **Wazuh**, **AlienVault OTX**, and locally hosted AI infrastructure.
-
-The project is centered around improving alert context and analyst workflow without sending sensitive security data to externally hosted AI services.
-
-`WAZUH` &nbsp;&nbsp; `ALIENVAULT OTX` &nbsp;&nbsp; `OLLAMA` &nbsp;&nbsp; `OPEN WEBUI` &nbsp;&nbsp; `DOCKER` &nbsp;&nbsp; `UBUNTU`
-
-<br>
-
-### ISOLATED MALWARE ANALYSIS ENVIRONMENT
-
-A segmented malware-analysis environment designed for controlled detonation and repeatable analyst workflows.
-
-The environment uses **Proxmox** and **OPNsense** to isolate analysis systems from production and the public internet while providing controlled simulated services through **INetSim**.
-
-Analysis hosts include Windows and REMnux systems with purpose-built transfer and workflow automation.
-
-`PROXMOX VE` &nbsp;&nbsp; `OPNSENSE` &nbsp;&nbsp; `REMNUX` &nbsp;&nbsp; `INETSIM` &nbsp;&nbsp; `WINDOWS`
-
-<br>
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### RED TEAM LABS
 
-An independent project exploring a different approach to cybersecurity education.
+**Cybersecurity education through interactive experiences.**
 
-Instead of turning security concepts into another collection of slides and quizzes, RED Team Labs is focused on creating interactive experiences inspired by real-world attacker and defender behavior.
-
-**[REDTEAMLABS.DEV](https://redteamlabs.dev)**
+An independent project exploring new ways to make cybersecurity concepts engaging, approachable, and grounded in how attacks and defenses actually work.
 
 <br>
 
----
-
-<div align="center">
-
-## WEBSITE MODERNIZATION
-
-### THE SITE ALREADY EXISTS. MAKE IT BETTER.
-
-</div>
-
-I work with small businesses and organizations whose websites still function, but no longer represent the business particularly well.
-
-That usually means fixing things like outdated design, poor mobile behavior, confusing navigation, dead links, buried contact information, awkward ordering flows, or years of incremental changes that have made the site harder to use.
-
-I focus on **modernization rather than unnecessary redevelopment**.
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**PRESENTATION**
-
-Layout refinement  
-Visual hierarchy  
-Mobile experience  
-Typography  
-Consistency  
-Content cleanup
+**[VISIT REDTEAMLABS.DEV →](https://redteamlabs.dev)**
 
 </td>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-**CUSTOMER EXPERIENCE**
+### WEBSITE MODERNIZATION
 
-Navigation  
-Calls-to-action  
-Online ordering  
-Maps & directions  
-Contact flows  
-Business information
+Working with small businesses and organizations to improve aging web presence without pushing unnecessary full rebuilds.
 
-</td>
+Focus areas include:
 
-<td width="33%" valign="top">
-
-**WEB INFRASTRUCTURE**
-
-Cloudflare  
-DNS  
-Domains  
-Hosting  
-Deployment  
-Performance  
-Baseline security
+**Design refreshes · mobile usability · navigation · integrations · content cleanup · DNS · deployment**
 
 </td>
 </tr>
 </table>
 
-<div align="center">
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### SECURITY LAB
+
+A purpose-built malware analysis environment centered around isolation, controlled detonation, simulated network services, and repeatable analyst workflows.
+
+**Proxmox · OPNsense · REMnux · INetSim · Windows**
+
+</td>
+
+<td width="50%" valign="top">
+
+### THREAT INTELLIGENCE + AI
+
+Building local security tooling around **Wazuh and AlienVault OTX**, with locally hosted AI infrastructure used for threat-intelligence enrichment and analyst workflows.
+
+**Wazuh · AlienVault OTX · Ollama · Open WebUI · Docker**
+
+</td>
+</tr>
+</table>
 
 <br>
 
-**Modern websites without unnecessary complexity.**
+---
+
+<div align="center">
+
+## CYBERSECURITY
+
+</div>
+
+I work professionally in cybersecurity, with hands-on experience investigating security activity across enterprise environments.
+
+<div align="center">
+
+`EXABEAM`
+
+`WAZUH`
+
+`ALIENVAULT OTX`
+
+`WINDOWS EVENT TELEMETRY`
+
+`ENDPOINT TELEMETRY`
+
+`NETWORK ANALYSIS`
+
+`POWERSHELL`
+
+`INCIDENT INVESTIGATION`
+
+`THREAT INTELLIGENCE`
+
+`MALWARE ANALYSIS`
+
+</div>
+
+<br>
+
+The security background is also part of how I approach everything else I build:
+
+**understand the system, reduce unnecessary complexity, and don't ignore the details.**
+
+<br>
+
+---
+
+<div align="center">
+
+## THE STACK
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=cloudflare,docker,linux,ubuntu,windows,powershell,git,github&theme=dark" />
+
+<br><br>
+
+`PROXMOX` &nbsp;&nbsp; `OPNSENSE` &nbsp;&nbsp; `REMNUX` &nbsp;&nbsp; `INETSIM`
+
+`EXABEAM` &nbsp;&nbsp; `WAZUH` &nbsp;&nbsp; `ALIENVAULT OTX`
 
 </div>
 
@@ -190,26 +230,22 @@ Baseline security
 
 <div align="center">
 
-## WORKING SET
+## LET'S MAKE SOMETHING BETTER.
 
-`EXABEAM` &nbsp; `WAZUH` &nbsp; `ALIENVAULT OTX` &nbsp; `POWERSHELL` &nbsp; `WINDOWS`
+If your website looks like it hasn't changed since your business opened,
 
-`PROXMOX` &nbsp; `OPNSENSE` &nbsp; `REMNUX` &nbsp; `INETSIM` &nbsp; `UBUNTU`
-
-`DOCKER` &nbsp; `OLLAMA` &nbsp; `OPEN WEBUI` &nbsp; `CLOUDFLARE` &nbsp; `GIT`
-
-</div>
+**that's probably where I come in.**
 
 <br>
 
----
+### WEBSITE MODERNIZATION  
+### TECHNICAL PROJECTS  
+### CYBERSECURITY
 
-<div align="center">
+<br>
 
-### REDTEAMLABZ
+**[REDTEAMLABS.DEV](https://redteamlabs.dev)**
 
-Cybersecurity Analyst / Technical Builder / Website Modernization
-
-**[redteamlabs.dev](https://redteamlabs.dev)**
+`@redteamlabz`
 
 </div>
