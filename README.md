@@ -31,7 +31,7 @@ I also build technical projects and modernize websites for businesses that have 
 
 Cleaner design. Better mobile experience. Simpler navigation. Working links. Better customer flow.
 
-I also handle the less-visible pieces that keep a site working properly — **domains, DNS, Cloudflare, deployment, performance, and basic security.**
+I also handle the less-visible pieces that keep a site working properly; **domains, DNS, Cloudflare, deployment, performance, and basic security.**
 
 **Design refreshes** // **Mobile** // **Navigation** // **Ordering & maps** // **Content cleanup** // **Cloudflare & DNS**
 
