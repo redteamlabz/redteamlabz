@@ -41,7 +41,7 @@ I also handle the less-visible pieces that keep a site working properly; **domai
 
 <div align="center">
 
-<a href="mailto:YOUR_EMAIL_HERE">
+<a href="mailto:ethan@redteamlabs.dev">
 <img src="https://img.shields.io/badge/LET'S_TALK-FF2020?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
