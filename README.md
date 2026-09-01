@@ -1,6 +1,6 @@
 <div align="center">
 
-# 𝙀𝙏𝙃𝘼𝙉 𝙒𝘼𝙏𝙆𝙄𝙉𝙎
+# 𝙀𝙏𝙃𝘼𝙉
 
 ### `CYBERSECURITY` // `WEBSITE MODERNIZATION` // `BUILDING THINGS`
 
