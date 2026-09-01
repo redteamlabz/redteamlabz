@@ -1,0 +1,129 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="redFade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff1f1f"/>
+      <stop offset="1" stop-color="#700000"/>
+    </linearGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="screenClip">
+      <rect x="0" y="0" width="1200" height="360" rx="18"/>
+    </clipPath>
+  </defs>
+
+  <rect width="1200" height="360" rx="18" fill="#050505"/>
+
+  <!-- subtle grid -->
+  <g opacity="0.10" stroke="#ffffff" stroke-width="1">
+    <path d="M0 60H1200M0 120H1200M0 180H1200M0 240H1200M0 300H1200"/>
+    <path d="M120 0V360M240 0V360M360 0V360M480 0V360M600 0V360M720 0V360M840 0V360M960 0V360M1080 0V360"/>
+  </g>
+
+  <!-- red sun / halo -->
+  <circle cx="205" cy="180" r="122" fill="#dc1111" opacity="0.95"/>
+  <circle cx="205" cy="180" r="131" stroke="#ff2626" stroke-width="2" stroke-dasharray="5 10" opacity="0.55">
+    <animateTransform attributeName="transform" type="rotate" from="0 205 180" to="360 205 180" dur="22s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- abstract crown -->
+  <g transform="translate(82 82)" stroke="#f5f5f5" stroke-width="7" stroke-linejoin="round" stroke-linecap="round" fill="#050505">
+    <path d="M28 89 L42 24 L80 66 L121 10 L158 66 L198 24 L212 89 Z"/>
+    <path d="M34 89 H206"/>
+    <circle cx="121" cy="47" r="8" fill="#dc1111" stroke="#f5f5f5" stroke-width="4"/>
+  </g>
+
+  <!-- cable / wire motifs -->
+  <g stroke="#f2f2f2" stroke-width="5" fill="none" stroke-linecap="round" opacity="0.95">
+    <path d="M112 185 C75 210, 54 238, 76 280"/>
+    <path d="M141 193 C114 226, 126 255, 105 313"/>
+    <path d="M173 198 C153 240, 175 269, 154 330"/>
+    <path d="M221 198 C249 231, 246 267, 284 311"/>
+    <path d="M249 186 C292 213, 303 244, 335 270"/>
+  </g>
+  <g fill="#f2f2f2">
+    <rect x="60" y="276" width="32" height="15" rx="2" transform="rotate(65 60 276)"/>
+    <rect x="91" y="307" width="32" height="15" rx="2" transform="rotate(20 91 307)"/>
+    <rect x="143" y="321" width="32" height="15" rx="2" transform="rotate(5 143 321)"/>
+    <rect x="275" y="298" width="32" height="15" rx="2" transform="rotate(42 275 298)"/>
+    <rect x="325" y="258" width="32" height="15" rx="2" transform="rotate(14 325 258)"/>
+  </g>
+
+  <!-- left interface marks -->
+  <g stroke="#dc1111" stroke-width="2">
+    <path d="M20 72H88M20 84H64M20 96H110"/>
+    <path d="M20 272H82M20 284H54M20 296H105"/>
+  </g>
+
+  <!-- main label -->
+  <text x="405" y="120"
+        fill="#f5f5f5"
+        font-size="76"
+        font-weight="800"
+        font-family="Arial, Helvetica, sans-serif"
+        letter-spacing="8">ETHAN</text>
+
+  <rect x="408" y="138" width="708" height="2" fill="url(#redFade)"/>
+  <circle cx="1117" cy="139" r="4" fill="#ff2626" filter="url(#softGlow)">
+    <animate attributeName="opacity" values="0.35;1;0.35" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="410" y="175"
+        fill="#d9d9d9"
+        font-size="17"
+        font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
+        letter-spacing="1.8">CYBERSECURITY  //  WEBSITE MODERNIZATION  //  TECHNICAL PROJECTS</text>
+
+  <!-- rotating terminal lines -->
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
+     font-size="23">
+    <text x="410" y="235" fill="#f3f3f3" opacity="1">
+      &gt; cybersecurity analyst by day.
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.28;0.33;1" dur="9s" repeatCount="indefinite"/>
+    </text>
+    <text x="410" y="235" fill="#f3f3f3" opacity="0">
+      &gt; modernizing outdated websites.
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.30;0.35;0.61;0.66;1" dur="9s" repeatCount="indefinite"/>
+    </text>
+    <text x="410" y="235" fill="#f3f3f3" opacity="0">
+      &gt; always building something.
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.64;0.69;1" dur="9s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <!-- blinking cursor -->
+  <rect x="410" y="264" width="14" height="26" fill="#ff2626">
+    <animate attributeName="opacity" values="1;1;0;0" dur="1s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="438" y="284"
+        fill="#8c8c8c"
+        font-size="15"
+        font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
+        letter-spacing="1.2">SECURITY  /  SYSTEMS  /  MODERNIZATION</text>
+
+  <!-- top-right bracket -->
+  <path d="M1115 42H1150V77" stroke="#dc1111" stroke-width="3"/>
+  <path d="M405 42H370V77" stroke="#dc1111" stroke-width="3"/>
+
+  <!-- animated scanline -->
+  <g clip-path="url(#screenClip)" opacity="0.30">
+    <rect x="0" y="-8" width="1200" height="3" fill="#ff2b2b">
+      <animate attributeName="y" from="-8" to="368" dur="5.5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- bottom status -->
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
+     font-size="13" fill="#8f8f8f">
+    <circle cx="410" cy="327" r="4" fill="#ff2626">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="424" y="332">PROFILE / REDTEAMLABZ</text>
+    <text x="948" y="332">BUILDING // 2026</text>
+  </g>
+</svg>
