@@ -80,7 +80,7 @@ Building a local threat-intelligence workflow around **Wazuh and AlienVault OTX*
 I work professionally in security operations, investigating suspicious activity, correlating telemetry, analyzing incidents, and supporting response efforts.
 
 **Security Operations**  
-Exabeam // Wazuh // Alert Triage // Event Correlation // Incident Investigation
+Exabeam // Logrhythm // Splunk // Alert Triage // Event Correlation // Incident Investigation
 
 **Threat Analysis**  
 AlienVault OTX // IOC Analysis // Threat Intelligence // Malicious Email Analysis // OSINT
