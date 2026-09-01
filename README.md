@@ -1,22 +1,30 @@
 <div align="center">
 
-# 𝙀𝙏𝙃𝘼𝙉
+# 𖤐 𝙍𝙀𝘿𝙏𝙀𝘼𝙈𝙇𝘼𝘽𝙕 𖤐
 
-### WEBSITE MODERNIZATION  /  CYBERSECURITY  /  DIGITAL PROJECTS
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=19&duration=2600&pause=900&color=E5242A&center=true&vCenter=true&width=760&lines=Modernizing+websites+that+have+been+left+behind.;Clean.+Fast.+Current.;Cybersecurity+professional+%2F+technical+builder.;Making+digital+experiences+better." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2200&pause=650&color=FF2020&center=true&vCenter=true&width=850&lines=root%40redteamlabz%3A~%24+whoami;Cybersecurity+Analyst+by+day.;Builder+by+nature.;Modernizing+the+web%2C+one+ugly+site+at+a+time.;Security+%2F+Infrastructure+%2F+Web+Modernization;root%40redteamlabz%3A~%24+_" />
 
 <br>
 
-<a href="https://redteamlabs.dev">
-<img src="https://img.shields.io/badge/RED_TEAM_LABS-E5242A?style=for-the-badge&logo=cloudflare&logoColor=white">
-</a>
+![Cybersecurity](https://img.shields.io/badge/CYBERSECURITY-050505?style=for-the-badge&logo=kalilinux&logoColor=ff2020)
+![Website Modernization](https://img.shields.io/badge/WEBSITE_MODERNIZATION-050505?style=for-the-badge&logo=firefoxbrowser&logoColor=ff2020)
+![Status](https://img.shields.io/badge/STATUS-BUILDING-ff2020?style=for-the-badge&logoColor=white)
 
-&nbsp;
+</div>
 
-<a href="mailto:YOUR-EMAIL-HERE">
-<img src="https://img.shields.io/badge/CONTACT-111111?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+<br>
+
+<h2 align="center">┌──[ root@redteamlabz ]──[ ~ ]</h2>
+
+<div align="center">
+
+### `$ ./about-me`
+
+Cybersecurity professional with a habit of building things that probably could've been left alone.
+
+I spend my professional life investigating security activity, analyzing telemetry, working incidents, and figuring out why systems are doing things they absolutely should not be doing.
+
+Outside of that, I build security labs, automation, threat-intelligence workflows, and modernize websites for businesses that deserve something better than what they currently have.
 
 </div>
 
@@ -26,73 +34,47 @@
 
 <div align="center">
 
-## WEBSITE MODERNIZATION
+## `>_ WEBSITE MODERNIZATION`
 
-### Your business changed. Your website should too.
+### **old website ≠ bad business**
 
 </div>
 
-I help businesses improve websites that still technically work — but no longer look, feel, or perform like they should.
-
-Maybe the site is dated.
-
-Maybe it looks rough on mobile.
-
-Maybe the ordering link is buried, the navigation is confusing, or important information hasn't been touched in years.
-
-I focus on **modernizing what already exists** without making things unnecessarily complicated.
-
-<br>
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### EXPERIENCE
-
-Cleaner layouts  
-Better navigation  
-Mobile usability  
-Stronger calls-to-action  
-Clearer customer journeys  
-
-</td>
-
-<td width="33%" valign="top">
-
-### MODERNIZATION
-
-Updated styling  
-Content cleanup  
-Broken link fixes  
-Maps & directions  
-Ordering integrations  
-Business information  
-
-</td>
-
-<td width="33%" valign="top">
-
-### INFRASTRUCTURE
-
-Domains  
-DNS  
-Cloudflare  
-Hosting  
-Deployment  
-Performance  
-Baseline security  
-
-</td>
-</tr>
-</table>
-
-<br>
+<p align="center">
+A lot of great businesses are represented online by websites that haven't kept up with them.
+<br><br>
+That's the problem I like fixing.
+</p>
 
 <div align="center">
 
-### Clean enough to feel new.  
-### Simple enough to stay useful.
+`DESIGN REFRESH`
+
+`MOBILE EXPERIENCE`
+
+`NAVIGATION`
+
+`ORDERING + MAPS + CONTACT`
+
+`CONTENT CLEANUP`
+
+`CLOUDFLARE + DNS`
+
+`PERFORMANCE`
+
+`BASELINE SECURITY`
+
+</div>
+
+<br>
+
+<p align="center">
+<strong>I modernize existing sites without turning a simple business website into an unnecessary software project.</strong>
+</p>
+
+<div align="center">
+
+### `[ make it cleaner // make it faster // make it useful ]`
 
 </div>
 
@@ -102,65 +84,47 @@ Baseline security
 
 <div align="center">
 
-## SELECTED WORK
+## `>_ ACTIVE OPERATIONS`
 
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### `01 :: RED TEAM LABS`
 
-### RED TEAM LABS
+**Cyber education reimagined through play.**
 
-**Cybersecurity education through interactive experiences.**
+RED Team Labs is an independent project exploring interactive cybersecurity education inspired by real attacker behavior and defensive security concepts.
 
-An independent project exploring new ways to make cybersecurity concepts engaging, approachable, and grounded in how attacks and defenses actually work.
+The idea is to make cybersecurity feel less like reading documentation and more like actually experiencing the problem.
 
-<br>
+<p align="center">
 
-**[VISIT REDTEAMLABS.DEV →](https://redteamlabs.dev)**
+[![RED Team Labs](https://img.shields.io/badge/ENTER_REDTEAMLABS.DEV-ff2020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://redteamlabs.dev)
 
-</td>
-
-<td width="50%" valign="top">
-
-### WEBSITE MODERNIZATION
-
-Working with small businesses and organizations to improve aging web presence without pushing unnecessary full rebuilds.
-
-Focus areas include:
-
-**Design refreshes · mobile usability · navigation · integrations · content cleanup · DNS · deployment**
-
-</td>
-</tr>
-</table>
+</p>
 
 <br>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### `02 :: MALWARE ANALYSIS INFRASTRUCTURE`
 
-### SECURITY LAB
+Purpose-built isolated malware analysis environment designed around controlled detonation, network segmentation, simulated services, and repeatable analyst workflows.
 
-A purpose-built malware analysis environment centered around isolation, controlled detonation, simulated network services, and repeatable analyst workflows.
+<div align="center">
 
-**Proxmox · OPNsense · REMnux · INetSim · Windows**
+`PROXMOX VE` • `OPNSENSE` • `REMNUX` • `INETSIM` • `WINDOWS`
 
-</td>
+</div>
 
-<td width="50%" valign="top">
+<br>
 
-### THREAT INTELLIGENCE + AI
+### `03 :: WAZUH × OTX × LOCAL AI`
 
-Building local security tooling around **Wazuh and AlienVault OTX**, with locally hosted AI infrastructure used for threat-intelligence enrichment and analyst workflows.
+Building a local threat-intelligence enrichment workflow around **Wazuh + AlienVault OTX**, with locally hosted AI used to assist analyst workflows without sending sensitive security data to externally hosted models.
 
-**Wazuh · AlienVault OTX · Ollama · Open WebUI · Docker**
+<div align="center">
 
-</td>
-</tr>
-</table>
+`WAZUH` • `ALIENVAULT OTX` • `OLLAMA` • `OPEN WEBUI` • `DOCKER` • `UBUNTU`
+
+</div>
 
 <br>
 
@@ -168,41 +132,45 @@ Building local security tooling around **Wazuh and AlienVault OTX**, with locall
 
 <div align="center">
 
-## CYBERSECURITY
-
-</div>
-
-I work professionally in cybersecurity, with hands-on experience investigating security activity across enterprise environments.
-
-<div align="center">
-
-`EXABEAM`
-
-`WAZUH`
-
-`ALIENVAULT OTX`
-
-`WINDOWS EVENT TELEMETRY`
-
-`ENDPOINT TELEMETRY`
-
-`NETWORK ANALYSIS`
-
-`POWERSHELL`
-
-`INCIDENT INVESTIGATION`
-
-`THREAT INTELLIGENCE`
-
-`MALWARE ANALYSIS`
-
-</div>
+## `>_ /usr/bin/tools`
 
 <br>
 
-The security background is also part of how I approach everything else I build:
+### SECURITY OPERATIONS
 
-**understand the system, reduce unnecessary complexity, and don't ignore the details.**
+![Exabeam](https://img.shields.io/badge/EXABEAM-080808?style=for-the-badge&logoColor=ff2020)
+![Wazuh](https://img.shields.io/badge/WAZUH-080808?style=for-the-badge&logoColor=ff2020)
+![AlienVault](https://img.shields.io/badge/ALIENVAULT_OTX-080808?style=for-the-badge&logoColor=ff2020)
+![PowerShell](https://img.shields.io/badge/POWERSHELL-080808?style=for-the-badge&logo=powershell&logoColor=ff2020)
+
+`ALERT TRIAGE` • `EVENT CORRELATION` • `INCIDENT INVESTIGATION`
+
+`WINDOWS EVENT TELEMETRY` • `ENDPOINT TELEMETRY`
+
+`IOC ANALYSIS` • `PACKET ANALYSIS` • `THREAT INTELLIGENCE`
+
+<br>
+
+### LAB / INFRASTRUCTURE
+
+![Proxmox](https://img.shields.io/badge/PROXMOX-080808?style=for-the-badge&logo=proxmox&logoColor=ff2020)
+![Docker](https://img.shields.io/badge/DOCKER-080808?style=for-the-badge&logo=docker&logoColor=ff2020)
+![Ubuntu](https://img.shields.io/badge/UBUNTU-080808?style=for-the-badge&logo=ubuntu&logoColor=ff2020)
+![Linux](https://img.shields.io/badge/LINUX-080808?style=for-the-badge&logo=linux&logoColor=white)
+
+`OPNSENSE` • `REMNUX` • `INETSIM` • `OLLAMA` • `OPEN WEBUI`
+
+<br>
+
+### WEB / EDGE
+
+![Cloudflare](https://img.shields.io/badge/CLOUDFLARE-080808?style=for-the-badge&logo=cloudflare&logoColor=ff2020)
+![GitHub](https://img.shields.io/badge/GITHUB-080808?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-080808?style=for-the-badge&logo=git&logoColor=ff2020)
+
+`DNS` • `DOMAINS` • `DEPLOYMENT` • `RESPONSIVE UX` • `SITE MODERNIZATION`
+
+</div>
 
 <br>
 
@@ -210,42 +178,32 @@ The security background is also part of how I approach everything else I build:
 
 <div align="center">
 
-## THE STACK
+## `>_ CONNECTION ESTABLISHED`
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=redteamlabz&bg_color=000000&color=bfbfbf&line=ff2020&point=ffffff&area=true&area_color=ff2020&hide_border=true&custom_title=SYSTEM%20ACTIVITY" width="100%" />
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=cloudflare,docker,linux,ubuntu,windows,powershell,git,github&theme=dark" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=redteamlabz&theme=dark&hide_border=true&background=00000000&stroke=ff2020&ring=ff2020&fire=ff2020&currStreakLabel=ff2020&sideLabels=ffffff&dates=777777" />
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3000&pause=1000&color=FF2020&center=true&vCenter=true&width=850&lines=%5B+CYBERSECURITY+%5D+%5B+WEBSITE+MODERNIZATION+%5D+%5B+BUILDING+THINGS+%5D;root%40redteamlabz%3A~%24+exit" />
+
+<br>
+
+### **Cybersecurity Analyst by day. Builder by nature.**
+
+[![Website](https://img.shields.io/badge/REDTEAMLABS.DEV-ff2020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://redteamlabs.dev)
 
 <br><br>
 
-`PROXMOX` &nbsp;&nbsp; `OPNSENSE` &nbsp;&nbsp; `REMNUX` &nbsp;&nbsp; `INETSIM`
-
-`EXABEAM` &nbsp;&nbsp; `WAZUH` &nbsp;&nbsp; `ALIENVAULT OTX`
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-## LET'S MAKE SOMETHING BETTER.
-
-If your website looks like it hasn't changed since your business opened,
-
-**that's probably where I come in.**
-
-<br>
-
-### WEBSITE MODERNIZATION  
-### TECHNICAL PROJECTS  
-### CYBERSECURITY
-
-<br>
-
-**[REDTEAMLABS.DEV](https://redteamlabs.dev)**
-
-`@redteamlabz`
+`© redteamlabz // EOF`
 
 </div>
