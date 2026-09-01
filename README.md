@@ -1,248 +1,122 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:650000,100:ff1a1a&height=230&section=header&text=ETHAN&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CYBERSECURITY%20%2F%2F%20DEVELOPMENT%20%2F%2F%20BUILDING&descAlignY=57&descSize=17"/>
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=FF3131&center=true&vCenter=true&width=700&lines=%3E+Cybersecurity+Analyst;%3E+Web+Developer;%3E+Building+RED+Team+Labs;%3E+Security.+Infrastructure.+Development.;%3E+Always+building+something." alt="Typing SVG" />
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=redteamlabz&style=for-the-badge&color=red&label=PROFILE+VIEWS"/>
-
-</div>
-
-────────
-
-> whoami
-
-```text
-NAME       : ETHAN
-ROLE       : CYBERSECURITY ANALYST
-SIDE QUEST : WEB DEVELOPMENT
-PROJECT    : RED TEAM LABS
-STATUS     : BUILDING...
-```
-
-Cybersecurity professional with a focus on security operations, incident investigation, threat detection, infrastructure, and defensive security.
-
-Outside of security operations, I build things — cybersecurity labs, infrastructure, tools, websites, and whatever else gives me an excuse to figure out how something works.
-
-────────
-
-> current_operations
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🔴 RED TEAM LABS</h3>
-
 <p align="center">
-<b>Cyber education reimagined through play.</b>
+  <img src="./assets/header.svg" width="100%" alt="Ethan — Cybersecurity, Website Modernization, Technical Projects" />
 </p>
 
-Building interactive cybersecurity learning experiences inspired by real-world attack and defense techniques.
+## `01 / ABOUT`
 
-The goal:
+Cybersecurity professional focused on **security operations, investigation, infrastructure, and defensive security**.
 
-Make cybersecurity learning feel real without the real-world consequences.
+Outside of my primary work, I build technical projects and help local businesses **modernize websites that have gotten outdated, cluttered, broken, or difficult to use**.
 
-<p align="center">
-<a href="https://redteamlabs.dev">
-<img src="https://img.shields.io/badge/ENTER_RED_TEAM_LABS-FF1A1A?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-</a>
-</p>
+> I am not trying to be a full-stack agency.  
+> I focus on making existing websites look current, work better, and make more sense for the people actually using them.
 
-</td>
+---
 
-<td width="50%" valign="top">
-
-<h3 align="center">🌐 WEB DEVELOPMENT</h3>
-
-<p align="center">
-<b>Modern websites for businesses & organizations.</b>
-</p>
-
-I design, rebuild, and improve websites with a focus on:
-
-UI / UX
-
-Responsive Design
-
-Performance
-
-Deployment
-
-DNS
-
-Security
-
-Business Integrations
-
-</td>
-</tr>
-</table>
-
-────────
-
-> security_operations
+## `02 / CYBERSECURITY`
 
 ```text
-[+] Security Event Triage
-[+] Incident Investigation
-[+] SIEM / Log Analysis
-[+] Endpoint Detection & Response
-[+] Threat Intelligence
-[+] OSINT
-[+] Network Security
-[+] Windows & Linux Security
-[+] Security Infrastructure
+SECURITY OPERATIONS
+├── Alert triage & investigation
+├── SIEM / log analysis
+├── Endpoint detection & response
+├── Incident response
+├── Threat intelligence / OSINT
+├── Windows & Linux
+└── Security infrastructure
 ```
 
-────────
+My interests extend beyond day-to-day operations into **malware analysis, network isolation, lab infrastructure, self-hosting, and security engineering**.
 
-> arsenal
+---
 
-<div align="center">
+## `03 / WEBSITE MODERNIZATION`
 
-SECURITY
+### Existing site. Better experience.
 
-SIEM
-Exabeam
-EDR
-OSINT
-PowerShell
+I help businesses improve websites that already exist rather than automatically pushing a complete rebuild.
 
-DEVELOPMENT
+**Typical modernization work includes:**
 
-HTML5
-CSS3
-JavaScript
-Git
-GitHub
-Cloudflare
+- Updating dated layouts and styling
+- Improving mobile usability
+- Cleaning up confusing navigation
+- Fixing broken links and outdated information
+- Improving calls-to-action
+- Connecting online ordering, maps, contact options, and other business services
+- Improving site organization and customer flow
+- Domain, DNS, hosting, and deployment cleanup
+- Basic performance and security improvements
 
-INFRASTRUCTURE
+**The goal:** a website that feels current, trustworthy, and easier for customers to use.
 
-Linux
-Ubuntu
-Windows
-Docker
-Proxmox
-OPNsense
+---
 
-</div>
+## `04 / PROJECTS`
 
-────────
+### `RED TEAM LABS`
 
-> featured_builds
+**Cyber education reimagined through play.**
 
-🧪 Malware Analysis Environment
+An independent project exploring interactive, game-first ways to teach cybersecurity concepts inspired by real attack and defense techniques.
 
-Isolated malware-analysis infrastructure built using Proxmox, OPNsense, Windows, REMnux, INetSim, and segmented networking.
+**→ [redteamlabs.dev](https://redteamlabs.dev)**
 
-Designed around controlled detonation, simulated network services, traffic isolation, and safe malware-analysis workflows.
-
-────────
-
-🤖 Local AI Infrastructure
-
-Self-hosted local LLM infrastructure built on repurposed enterprise server hardware using:
-
-Ubuntu Docker Ollama Open WebUI
-
-Focused on locally hosted models, restricted access, and keeping infrastructure under direct control.
-
-────────
-
-🔴 RED Team Labs
-
-An independent cybersecurity education project exploring how game development and interactive experiences can make security concepts more engaging and approachable.
-
-🌐 https://redteamlabs.dev
-
-────────
-
-🌐 Web Development
-
-Building and modernizing websites for local businesses and organizations.
-
-```text
-OUTDATED SITE
-     │
-     ▼
-[ REDESIGN ]
-     │
-     ├── Responsive UI
-     ├── Better Navigation
-     ├── Modern Styling
-     ├── Business Integrations
-     ├── Performance
-     └── Security
-     │
-     ▼
-MODERN WEB PRESENCE
-```
-
-────────
-
-> github_telemetry
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=redteamlabz&show_icons=true&theme=transparent&hide_border=true&title_color=FF3131&icon_color=FF3131&text_color=B8B8B8&ring_color=FF3131" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redteamlabz&layout=compact&theme=transparent&hide_border=true&title_color=FF3131&text_color=B8B8B8" />
-
-</div>
-
+<details>
+<summary><b>Malware Analysis Environment</b></summary>
 <br>
 
-<div align="center">
+An isolated analysis environment built around segmented networking, controlled detonation, simulated network services, and repeatable analyst workflows.
 
-<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=redteamlabz&theme=dark&hide_border=true&background=00000000&stroke=FF3131&ring=FF3131&fire=FF3131&currStreakLabel=FF3131" />
+`Proxmox` `OPNsense` `Windows` `REMnux` `INetSim`
 
-</div>
+</details>
 
-────────
+<details>
+<summary><b>Local AI Infrastructure</b></summary>
+<br>
 
-> activity
+Self-hosted local LLM infrastructure running on repurposed enterprise hardware with restricted access and locally controlled models.
 
-<div align="center">
+`Ubuntu` `Docker` `Ollama` `Open WebUI`
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=redteamlabz&bg_color=00000000&color=aaaaaa&line=ff3131&point=ffffff&area=true&hide_border=true"/>
+</details>
 
-</div>
+---
 
-────────
+## `05 / TOOLBOX`
 
-> transmission
+**Security**
+
+`Exabeam` · `SIEM` · `EDR` · `OSINT` · `PowerShell`
+
+**Systems & Infrastructure**
+
+`Windows` · `Linux` · `Ubuntu` · `Proxmox` · `OPNsense` · `Docker`
+
+**Website Modernization**
+
+`Cloudflare` · `DNS` · `GitHub` · `Responsive UX` · `Site Cleanup` · `Deployment`
+
+---
+
+## `06 / CURRENTLY`
 
 ```text
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│  USER        redteamlabz                                 │
-│  ACCESS      AUTHORIZED                                  │
-│  OCCUPATION  CYBERSECURITY                               │
-│  BUILDING    WEB / LABS / INFRASTRUCTURE                 │
-│                                                          │
-│  > There is always something left to learn.              │
-│  > There is always something else to build.              │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
+[+] Working in cybersecurity
+[+] Building RED Team Labs
+[+] Building out security lab infrastructure
+[+] Taking on select website modernization projects
 ```
 
-<div align="center">
+---
 
-SECURITY // DEVELOPMENT // BUILD
+<p align="center">
+  <b>CYBERSECURITY // WEBSITE MODERNIZATION // TECHNICAL PROJECTS</b>
+</p>
 
-<a href="https://redteamlabs.dev">
-<img src="https://img.shields.io/badge/RED_TEAM_LABS-redteamlabs.dev-FF1A1A?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1a1a,55:650000,100:050505&height=130&section=footer"/>
-
-</div>
+<p align="center">
+  <a href="https://redteamlabs.dev">RED TEAM LABS</a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/redteamlabz">@redteamlabz</a>
+</p>
