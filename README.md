@@ -2,9 +2,9 @@
 
 <img src="https://github.com/redteamlabz.png" width="175" alt="redteamlabz" />
 
-𝙀𝙏𝙃𝘼𝙉
+# 𝙀𝙏𝙃𝘼𝙉
 
-CYBERSECURITY // WEBSITE MODERNIZATION // BUILDING THINGS
+### CYBERSECURITY // WEBSITE MODERNIZATION // BUILDING THINGS
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2300&pause=750&color=00E8C6&center=true&vCenter=true&width=820&lines=ethan%40redteamlabz%3A~%24+whoami;Cybersecurity+Analyst+by+day.;Builder+by+nature.;Modernizing+websites+that+need+it.;Security.+Infrastructure.+Web." alt="Terminal animation" />
 
@@ -20,7 +20,7 @@ CYBERSECURITY // WEBSITE MODERNIZATION // BUILDING THINGS
 
 <br><br>
 
-ethan@redteamlabs.dev
+**ethan@redteamlabs.dev**
 
 </div>
 
@@ -28,7 +28,7 @@ ethan@redteamlabs.dev
 
 <img src="./assets/whoami.svg" width="100%" alt="whoami" />
 
-Cybersecurity analyst working across security operations, investigation, threat intelligence, and infrastructure.
+Cybersecurity analyst working across **security operations, investigation, threat intelligence, and infrastructure**.
 
 I also build technical projects and modernize websites for businesses that have outgrown their current site.
 
@@ -36,15 +36,15 @@ I also build technical projects and modernize websites for businesses that have 
 
 <img src="./assets/modernize.svg" width="100%" alt="Website modernization" />
 
-I modernize outdated business websites.
+### I modernize outdated business websites.
 
 Cleaner design, better mobile experience, simpler navigation, working links, and a smoother customer experience.
 
-I also handle the infrastructure behind it — domains, DNS, Cloudflare, deployment, performance, and baseline security.
+I also handle the infrastructure behind it — **domains, DNS, Cloudflare, deployment, performance, and baseline security.**
 
 <div align="center">
 
-KEEP WHAT WORKS · FIX WHAT DOESN'T · MAKE IT CURRENT
+### KEEP WHAT WORKS · FIX WHAT DOESN'T · MAKE IT CURRENT
 
 <br>
 
@@ -58,27 +58,27 @@ KEEP WHAT WORKS · FIX WHAT DOESN'T · MAKE IT CURRENT
 
 <img src="./assets/projects.svg" width="100%" alt="Selected projects" />
 
-RED TEAM LABS
+### RED TEAM LABS
 
 Interactive cybersecurity education inspired by real-world attacker and defender behavior.
 
-redteamlabs.dev →
+**[redteamlabs.dev →](https://redteamlabs.dev)**
 
 <br>
 
-MALWARE ANALYSIS LAB
+### MALWARE ANALYSIS LAB
 
 Isolated malware-analysis infrastructure built for controlled detonation, simulated network services, and repeatable analysis workflows.
 
-Proxmox VE · OPNsense · REMnux · INetSim · Windows
+**Proxmox VE · OPNsense · REMnux · INetSim · Windows**
 
 <br>
 
-WAZUH + OTX THREAT ENRICHMENT
+### WAZUH + OTX THREAT ENRICHMENT
 
-Local threat-intelligence enrichment integrating Wazuh, AlienVault OTX, and locally hosted AI to add context to alerts and support analyst workflows.
+Local threat-intelligence enrichment integrating **Wazuh**, **AlienVault OTX**, and locally hosted AI to add context to alerts and support analyst workflows.
 
-Wazuh · AlienVault OTX · Ollama · Open WebUI · Docker · Ubuntu
+**Wazuh · AlienVault OTX · Ollama · Open WebUI · Docker · Ubuntu**
 
 <br>
 
@@ -86,17 +86,14 @@ Wazuh · AlienVault OTX · Ollama · Open WebUI · Docker · Ubuntu
 
 I work professionally in security operations — investigating suspicious activity, correlating telemetry, analyzing incidents, and supporting response efforts.
 
-Detection & Response
+### Detection & Response
+**Exabeam · LogRhythm · CrowdStrike · Wazuh**
 
-Exabeam · LogRhythm · CrowdStrike · Wazuh
-
-Investigation & Intelligence
-
+### Investigation & Intelligence
 Windows event telemetry · Endpoint telemetry · Network telemetry · PCAP analysis · AlienVault OTX · IOC analysis · Malicious email analysis · OSINT
 
-Automation & Infrastructure
-
-PowerShell · Bash · APIs · Proxmox VE · OPNsense · Windows · Linux
+### Automation & Infrastructure
+**PowerShell · Bash · APIs · Proxmox VE · OPNsense · Windows · Linux**
 
 <br>
 
@@ -104,7 +101,7 @@ PowerShell · Bash · APIs · Proxmox VE · OPNsense · Windows · Linux
 
 <div align="center">
 
-Have a website that needs some attention?
+### Have a website that needs some attention?
 
 I take on select website modernization projects for businesses and organizations.
 
@@ -114,7 +111,7 @@ I take on select website modernization projects for businesses and organizations
 <img src="https://img.shields.io/badge/ETHAN%40REDTEAMLABS.DEV-00E8C6?style=for-the-badge&logo=gmail&logoColor=101418" alt="Email Ethan">
 </a>
 
- 
+&nbsp;
 
 <a href="https://redteamlabs.dev">
 <img src="https://img.shields.io/badge/REDTEAMLABS.DEV-FF2020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="RED Team Labs">
