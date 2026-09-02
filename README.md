@@ -1,22 +1,12 @@
 <div align="center">
 
-<img src="https://github.com/redteamlabz.png" width="175" alt="redteamlabz" />
+<img src="./assets/hero.gif" width="100%" alt="Ethan — Cybersecurity, Website Modernization, Building Things">
 
-# 𝙀𝙏𝙃𝘼𝙉
+<br><br>
 
-### CYBERSECURITY // WEBSITE MODERNIZATION // BUILDING THINGS
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2300&pause=750&color=00E8C6&center=true&vCenter=true&width=820&lines=ethan%40redteamlabz%3A~%24+whoami;Cybersecurity+Analyst+by+day.;Builder+by+nature.;Modernizing+websites+that+need+it.;Security.+Infrastructure.+Web." alt="Terminal animation" />
-
-<br>
-
-<a href="https://redteamlabs.dev">
-<img src="https://img.shields.io/badge/REDTEAMLABS.DEV-FF2020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="RED Team Labs">
-</a>
-&nbsp;
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ethan%40redteamlabs.dev&su=Website%20Modernization%20Inquiry">
-<img src="https://img.shields.io/badge/LET'S_TALK-101418?style=for-the-badge&logo=gmail&logoColor=00E8C6" alt="Let's Talk">
-</a>
+<a href="https://redteamlabs.dev"><img src="./assets/redteamlabs.png" height="42" alt="redteamlabs.dev"></a>
+&nbsp;&nbsp;
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ethan%40redteamlabs.dev&su=Website%20Modernization%20Inquiry"><img src="./assets/start-project.png" height="42" alt="Start a project"></a>
 
 <br><br>
 
@@ -26,7 +16,7 @@
 
 <br>
 
-<img src="./assets/whoami.svg" width="100%" alt="whoami" />
+<img src="./assets/whoami.png" width="100%" alt="WHOAMI">
 
 Cybersecurity analyst working across **security operations, investigation, threat intelligence, and infrastructure**.
 
@@ -34,7 +24,7 @@ I also build technical projects and modernize websites for businesses that have 
 
 <br>
 
-<img src="./assets/modernize.svg" width="100%" alt="Website modernization" />
+<img src="./assets/modernize.png" width="100%" alt="WEBSITE MODERNIZATION">
 
 ### I modernize outdated business websites.
 
@@ -44,60 +34,49 @@ I also handle the infrastructure behind it — **domains, DNS, Cloudflare, deplo
 
 <div align="center">
 
-### KEEP WHAT WORKS · FIX WHAT DOESN'T · MAKE IT CURRENT
+**KEEP WHAT WORKS · FIX WHAT DOESN'T · MAKE IT CURRENT**
 
-<br>
+<br><br>
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ethan%40redteamlabs.dev&su=Website%20Modernization%20Inquiry">
-<img src="https://img.shields.io/badge/START_A_PROJECT-00E8C6?style=for-the-badge&logo=gmail&logoColor=101418" alt="Start a Project">
-</a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ethan%40redteamlabs.dev&su=Website%20Modernization%20Inquiry"><img src="./assets/start-project.png" height="42" alt="Start a project"></a>
 
 </div>
 
 <br>
 
-<img src="./assets/projects.svg" width="100%" alt="Selected projects" />
+<img src="./assets/projects.png" width="100%" alt="SELECTED PROJECTS">
 
 ### RED TEAM LABS
-
-Interactive cybersecurity education inspired by real-world attacker and defender behavior.
-
+Interactive cybersecurity education inspired by real-world attacker and defender behavior.  
 **[redteamlabs.dev →](https://redteamlabs.dev)**
 
 <br>
 
 ### MALWARE ANALYSIS LAB
-
-Isolated malware-analysis infrastructure built for controlled detonation, simulated network services, and repeatable analysis workflows.
-
+Isolated malware-analysis infrastructure for controlled detonation, simulated network services, and repeatable analysis workflows.  
 **Proxmox VE · OPNsense · REMnux · INetSim · Windows**
 
 <br>
 
 ### WAZUH + OTX THREAT ENRICHMENT
-
-Local threat-intelligence enrichment integrating **Wazuh**, **AlienVault OTX**, and locally hosted AI to add context to alerts and support analyst workflows.
-
+Local threat-intelligence enrichment combining **Wazuh**, **AlienVault OTX**, and locally hosted AI to add context to alerts and support analyst workflows.  
 **Wazuh · AlienVault OTX · Ollama · Open WebUI · Docker · Ubuntu**
 
 <br>
 
-<img src="./assets/security.svg" width="100%" alt="Security experience" />
+<img src="./assets/security.png" width="100%" alt="SECURITY">
 
-I work professionally in security operations — investigating suspicious activity, correlating telemetry, analyzing incidents, and supporting response efforts.
+I work professionally in security operations — investigating suspicious activity, analyzing telemetry, and supporting incident response.
 
-### Detection & Response
-**Exabeam · LogRhythm · CrowdStrike · Wazuh**
+**Detection & Response** — Exabeam · LogRhythm · CrowdStrike · Wazuh
 
-### Investigation & Intelligence
-Windows event telemetry · Endpoint telemetry · Network telemetry · PCAP analysis · AlienVault OTX · IOC analysis · Malicious email analysis · OSINT
+**Investigation & Intelligence** — Windows event telemetry · Endpoint telemetry · Network telemetry · PCAP analysis · AlienVault OTX · IOC analysis · Malicious email analysis · OSINT
 
-### Automation & Infrastructure
-**PowerShell · Bash · APIs · Proxmox VE · OPNsense · Windows · Linux**
+**Automation & Infrastructure** — PowerShell · Bash · APIs · Proxmox VE · OPNsense · Windows · Linux
 
 <br>
 
-<img src="./assets/contact.svg" width="100%" alt="Contact" />
+<img src="./assets/contact.png" width="100%" alt="CONTACT">
 
 <div align="center">
 
@@ -107,18 +86,14 @@ I take on select website modernization projects for businesses and organizations
 
 <br>
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ethan%40redteamlabs.dev&su=Website%20Modernization%20Inquiry">
-<img src="https://img.shields.io/badge/ETHAN%40REDTEAMLABS.DEV-00E8C6?style=for-the-badge&logo=gmail&logoColor=101418" alt="Email Ethan">
-</a>
-
-&nbsp;
-
-<a href="https://redteamlabs.dev">
-<img src="https://img.shields.io/badge/REDTEAMLABS.DEV-FF2020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="RED Team Labs">
-</a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ethan%40redteamlabs.dev&su=Website%20Modernization%20Inquiry"><img src="./assets/start-project.png" height="42" alt="Start a project"></a>
+&nbsp;&nbsp;
+<a href="https://redteamlabs.dev"><img src="./assets/redteamlabs.png" height="42" alt="redteamlabs.dev"></a>
 
 <br><br>
 
-<img src="./assets/footer.svg" width="100%" alt="Cybersecurity, Website Modernization, Building Things" />
+<img src="./assets/signal.gif" width="100%" alt="">
+
+**Cybersecurity Analyst by day. Builder by nature.**
 
 </div>
