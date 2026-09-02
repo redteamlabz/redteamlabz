@@ -46,21 +46,17 @@ I also handle the infrastructure behind it — **domains, DNS, Cloudflare, deplo
 
 <img src="./assets/projects.png" width="100%" alt="SELECTED PROJECTS">
 
-### RED TEAM LABS
-Interactive cybersecurity education inspired by real-world attacker and defender behavior.  
-**[redteamlabs.dev →](https://redteamlabs.dev)**
+<a href="https://redteamlabs.dev">
+<img src="./assets/project-redteamlabs.png" width="100%" alt="RED TEAM LABS">
+</a>
 
 <br>
 
-### MALWARE ANALYSIS LAB
-Isolated malware-analysis infrastructure for controlled detonation, simulated network services, and repeatable analysis workflows.  
-**Proxmox VE · OPNsense · REMnux · INetSim · Windows**
+<img src="./assets/project-malwarelab.png" width="100%" alt="Malware Analysis Lab">
 
 <br>
 
-### WAZUH + OTX THREAT ENRICHMENT
-Local threat-intelligence enrichment combining **Wazuh**, **AlienVault OTX**, and locally hosted AI to add context to alerts and support analyst workflows.  
-**Wazuh · AlienVault OTX · Ollama · Open WebUI · Docker · Ubuntu**
+<img src="./assets/project-wazuhotx.png" width="100%" alt="Wazuh and OTX Threat Enrichment">
 
 <br>
 
